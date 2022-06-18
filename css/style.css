@@ -186,7 +186,7 @@ img.svg{
 	z-index: 2;
 }
 .oneo_tm_first_hero .hero_text h3{
-	color: #fff;
+	color: rgb(0, 0, 0);
 	margin-bottom: 6px;
 }
 .oneo_tm_first_hero .hero_text p{
@@ -626,6 +626,7 @@ img.svg{
 	z-index: 1;
 }
 .oneo_tm_personal_portfolio .portfolio_list ul li .inner .text h3{
+	text-shadow: 2px 2px 5px rgba(0,0,0,0.73);
 	color: #fff;
 	font-size: 20px;
 	position: relative;
